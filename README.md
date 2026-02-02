@@ -1,2 +1,2 @@
-# buildaid-template
-Template for Buildaid
+# bildaid-template
+Template for Bildaid
